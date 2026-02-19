@@ -1,6 +1,3 @@
-# amazon-review-sentiment-analysis
-A Python-based NLP pipeline that performs sentiment analysis on Amazon product reviews using TextBlob, SQLite, and multiprocessing for large-scale data processing.
-
 # 📊 Amazon Review Sentiment Analysis
 
 A Python-based sentiment analysis pipeline that processes Amazon product reviews using a rule-based Natural Language Processing (NLP) approach. The system stores results in a SQLite database, evaluates prediction accuracy, and visualizes sentiment distribution.
